@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.414" height="15" viewBox="0 0 19.414 19">
+  <g id="Group_70211" data-name="Group 70211" transform="translate(0.707 0.5)">
+    <path id="secondary" d="M3,8H21V20a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1Z" transform="translate(-3 -3)" fill="#fff" stroke="#8e8e9f" stroke-width="1"/>
+    <path id="primary" d="M20,21H4a1,1,0,0,1-1-1V8H21V20A1,1,0,0,1,20,21ZM12,3V13" transform="translate(-3 -3)" fill="none" stroke="#8e8e9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="primary-2" data-name="primary" d="M21,8,16.29,3.29a1,1,0,0,0-.7-.29H8.41a1,1,0,0,0-.7.29L3,8" transform="translate(-3 -3)" fill="none" stroke="#8e8e9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

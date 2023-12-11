@@ -1,0 +1,12 @@
+<svg id="Group_70235" data-name="Group 70235" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_70228" data-name="Group 70228" transform="translate(11 11)">
+    <line id="primary" x1="3" y2="3" transform="translate(0 12)" fill="none" stroke="#f93333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="primary-2" data-name="primary" x2="3" y2="3" transform="translate(0 12)" fill="none" stroke="#f93333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <circle id="primary-3" data-name="primary" cx="5" cy="5" r="5" transform="translate(5)" fill="none" stroke="#f93333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="primary-4" data-name="primary" d="M10,21H20a1,1,0,0,0,1-1,7,7,0,0,0-7-7H12a6.91,6.91,0,0,0-2,.29" transform="translate(-3 -3)" fill="none" stroke="#f93333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+  <g id="Rectangle_9364" data-name="Rectangle 9364" fill="none" stroke="#f93333" stroke-width="1">
+    <rect width="40" height="40" rx="10" stroke="none"/>
+    <rect x="0.5" y="0.5" width="39" height="39" rx="9.5" fill="none"/>
+  </g>
+</svg>
